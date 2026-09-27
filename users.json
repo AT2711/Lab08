@@ -2,26 +2,26 @@
   "users": [
     {
       "id": 1,
-      "username": "Nguyen Van A",
-      "email": "nguyenvana@gmail.com",
+      "username": "ABC",
+      "email": "abc123@gmail.com",
       "desc": "Sinh vien UEH",
-      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "avatar_url": "https://oemgroup.vn/wp-content/uploads/2025/04/top-4-dia-diem-may-dong-phuc-ao-lop-danh-cho-cac-truong-hoc-04-1710172757.jpg",
       "hobby": "The thao, Am nhac"
     },
     {
       "id": 2,
-      "username": "Tran Thi B",
-      "email": "tranthib@gmail.com",
-      "desc": "Sinh vien nganh Kinh doanh",
-      "avatar_url": "https://i.pravatar.cc/300?img=2",
+      "username": "MNO",
+      "email": "mno345@gmail.com",
+      "desc": "Sinh viên DHBK",
+      "avatar_url": "https://down-vn.img.susercontent.com/file/vn-11134201-820l4-mg7og8ocdgcob1@resize_w900_nl.webp",
       "hobby": "Du lich, Doc sach"
     },
     {
       "id": 3,
-      "username": "Le Van C",
-      "email": "levanc@gmail.com",
-      "desc": "Sinh vien UEH",
-      "avatar_url": "https://i.pravatar.cc/300?img=3",
+      "username": "XYZ",
+      "email": "xyz567@gmail.com",
+      "desc": "Sinh vien UEL",
+      "avatar_url": "https://fungift.vn/wp-content/uploads/2024/07/Bang-gia-in-ao-polo.jpg",
       "hobby": "Bong da, Chup anh"
     }
   ]
