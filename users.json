@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "hobby": "The thao, Am nhac"
+    },
+    {
+      "id": 2,
+      "username": "Tran Thi B",
+      "email": "tranthib@gmail.com",
+      "desc": "Sinh vien nganh Kinh doanh",
+      "avatar_url": "https://i.pravatar.cc/300?img=2",
+      "hobby": "Du lich, Doc sach"
+    },
+    {
+      "id": 3,
+      "username": "Le Van C",
+      "email": "levanc@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=3",
+      "hobby": "Bong da, Chup anh"
+    }
+  ]
+}
